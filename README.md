@@ -6,8 +6,8 @@ This project is a custom node for ComfyUI that allows you to dynamically load li
 
 ## 🖼️ Preview
 
-*It is highly recommended to replace this image with an actual screenshot of your node in action.*
-![image](https://user-images.githubusercontent.com/12345/your-image-link-here.png)
+![image](https://github.com/user-attachments/assets/cf212622-5832-4242-be62-564c303b2ccb)
+
 
 ## ✨ Features
 
