@@ -30,7 +30,6 @@ This project is a custom node for ComfyUI that allows you to dynamically load li
     ```bash
     git clone https://github.com/orion4d/ComfyUI_unified_list_selector.git
     ```
-    *(Remember to replace `YourUsername/Your-Repo-Name.git` with the actual URL of your repository)*
 
 3.  Restart ComfyUI.
 
@@ -68,9 +67,19 @@ Once the node is added to your workflow, you can configure the following inputs:
 -   **`selected_text`** (STRING)
     -   **Description**: The final string, including the selected (or random) item with any optional prefixes/suffixes. This output can be connected to any text input, such as a prompt.
 
-## 📁 File Formats
 
-#### `.txt` File
-Each non-empty line in the file is treated as a separate entry in the list.
+<div align="center">
 
-*Example `artists.txt`:*
+<h3>🌟 <strong>Show Your Support</strong></h3>
+
+<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
+
+<p><strong>Made with ❤️ for the ComfyUI community</strong></p>
+
+<p><strong>by Orion4D</strong></p>
+
+<a href="https://ko-fi.com/orion4d">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+</div>
