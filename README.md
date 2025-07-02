@@ -28,7 +28,7 @@ This project is a custom node for ComfyUI that allows you to dynamically load li
     ```
 2.  Clone this repository.
     ```bash
-    git clone https://github.com/YourUsername/Your-Repo-Name.git
+    git clone https://github.com/orion4d/ComfyUI_unified_list_selector.git
     ```
     *(Remember to replace `YourUsername/Your-Repo-Name.git` with the actual URL of your repository)*
 
