@@ -1,7 +1,6 @@
 # Unified List Selector for ComfyUI
 
-This project is a custom node for ComfyUI that allows you to dynamically load lists from text (`.txt`) or CSV (`.csv`) files and select an item to use in your workflow. It features a manual selection mode (via a dropdown list) and a random selection mode, as well as the ability to add prefixes and suffixes to the selected text.
-
+this project is a custom node for ComfyUI that allows you to dynamically load (no browser refresh required) lists from text or CSV files (specify the link in the field) and select an item to use in your workflow. It offers a manual selection mode (via a drop-down list) and a random selection mode, as well as the ability to add prefixes and suffixes to the selected text. Possibility of node chaining with suffix/prefix inputs and outputs.
 ---
 
 ## 🖼️ Preview
